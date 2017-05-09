@@ -1,7 +1,7 @@
 # Friday Midterm Check In
 
  - Please fork this repo to check in for the Friday midterm. This is to help us know who is here, since some students requested to attend a section for which they are not enrolled.
- - Just click the button; you don't have to clone or anything.
+ - Just click the "Fork" button; you don't have to clone or anything.
     - If you haven't clicked the button by 8:31am, you'll likely have to come up front and give me your GitHub username individually.
  - In a moment, navigate back to https://github.com/dsgn425-2017 and refresh.
  - You'll see a banner across the top of that page with an invitation from me to join a team. Accept it.
